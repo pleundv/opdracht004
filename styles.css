@@ -1,0 +1,26 @@
+
+
+.border {
+    border-bottom: 5px solid #ffb6c1;
+}
+
+.header {
+    font: 20px Lucida Console, Courier New;
+    font-weight: bold;
+    background-color: #e3b1d2;
+}
+
+.tekst {
+    font: 15px arial, helvetica, sans serif;
+    color: salmon;
+}
+
+.lijst {
+    font: 14px times new roman
+
+}
+
+.eind {
+    background-color: skyblue;
+    color: white;
+}
